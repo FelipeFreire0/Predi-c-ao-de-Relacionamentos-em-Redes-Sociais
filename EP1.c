@@ -1,16 +1,3 @@
-/*********************************************************************/
-/**   ACH2024 - Algoritmos e Estruturas de Dados II                 **/
-/**   EACH-USP - Primeiro Semestre de 2024                          **/
-/**   Turma 04 - Prof. Luciano Digiampietri                         **/
-/**                                                                 **/
-/**   Primeiro Exercicio-Programa                                   **/
-/**                                                                 **/
-/**   <Felipe Freire Silva>                   <14749596>            **/
-/**                                                                 **/
-/*********************************************************************/
-
-// gcc completeERenomeie.c -lm
-
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
